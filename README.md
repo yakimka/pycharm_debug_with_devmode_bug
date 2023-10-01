@@ -1,5 +1,9 @@
 # Reproduce PyCharm bug with debugging uvicorn in PYTHONDEVMODE
 
+* OS: Macos Sonoma 14.0
+* CPU: Apple M1
+* PyCharm: 2023.2.1 (Professional Edition)
+
 ## Steps to reproduce
 
 1. `docker compose build`
